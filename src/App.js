@@ -11,7 +11,7 @@ class App extends Component {
 
     return (
       <div>
-        <Router basename="/minanilnft">
+        <Router basename="/minanil-app">
           <CustomLayout {...this.props}>
             <BaseRouter />
           </CustomLayout>
